@@ -27,7 +27,9 @@ a2.reverse()
 print(a2)
 
 a3 = ['life', 'is', 'too', 'short']
-result = ' '.join(a3)
+result = '*'.join(a3)
 print(result)
 
-a4 = (1,2,3)
+(a,b) = ['asd','asdsadsa']
+print(type(a))
+print(b)
